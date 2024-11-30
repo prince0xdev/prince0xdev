@@ -59,7 +59,7 @@
 ---
 
 ## 🏆 Mes trophées GitHub :
- <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=scolarizes&no-bg=true" alt="Trophées GitHub" />
+ <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=scolarizes&no-bg=false" alt="Trophées GitHub" />
 
 
 
