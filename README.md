@@ -62,12 +62,6 @@
  ![Trophée DarkHub](https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=darkhub&no-bg=true)
 
 
-
-## ✍️ Citation aléatoire :
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
----
-
 ## 🔥 Mes projets en vedette :
 - [**LinkVibe**](https://github.com/prince-dev41/linkvibe) : Une application pour centraliser vos liens et analyser vos performances.  
 - [**Dashboard éducatif**](https://github.com/prince-dev41/educ-dashboard) : Un tableau de bord pour les élèves et les enseignants.  
@@ -83,5 +77,11 @@
 
 ## 🚀 Contribution et feedback :
 Tous les retours sont les bienvenus ! N'hésitez pas à ouvrir une issue ou à me contacter directement.
+
+
+## ✍️ Citation aléatoire :
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
 
 ### Merci pour votre visite ! 🌟
