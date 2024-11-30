@@ -56,12 +56,7 @@
 ---
 
 ## 🏆 Mes trophées GitHub :
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=juicyfresh&no-bg=true" alt="Trophées GitHub" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=radical&no-bg=true" alt="Trophées GitHub" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=darkhub&no-bg=true" alt="Trophées GitHub" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=onestar&no-bg=true" alt="Trophées GitHub" />
-</div>
+ <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=github&no-bg=true" alt="Trophées GitHub" />
 
 
 
