@@ -49,7 +49,21 @@
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=juicyfresh&no-bg=true" />
+
+## 📊 Streak de contributions :
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-dev41&theme=radical)
+
+---
+
+## 🏆 Mes trophées GitHub :
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=juicyfresh&no-bg=true" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=radical&no-bg=true" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=darkhub&no-bg=true" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=onestar&no-bg=true" alt="Trophées GitHub" />
+</div>
+
+
 
 ## ✍️ Citation aléatoire :
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
