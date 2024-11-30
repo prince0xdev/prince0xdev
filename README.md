@@ -37,7 +37,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-dev41&layout=compact&theme=radical)  
 
 ---
-
+<img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=juicyfresh&no-bg=true" />
 ## ✍️ Citation aléatoire :
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
@@ -54,6 +54,8 @@
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.me/princeekpinse)
 
 ---
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 
 ## 🚀 Contribution et feedback :
 Tous les retours sont les bienvenus ! N'hésitez pas à ouvrir une issue ou à me contacter directement.
