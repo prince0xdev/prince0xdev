@@ -1,38 +1,26 @@
 # Bonjour 👋
 Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **Bénin**. Passionné par **React.js**, **Next.js** et **TailwindCSS**, je crée des expériences web fluides et mémorables. Curieux et toujours prêt à apprendre, je m'efforce d'explorer les nouvelles technologies et de repousser mes limites pour offrir des interfaces captivantes. Mon objectif est de connecter le monde avec du **code propre**, de l'**innovation** et une touche de **créativité africaine**. Si tu cherches un partenaire pour tes projets tech, je suis toujours partant pour une collaboration fun et originale !
 
-### 🎨 Le Développement, C’est Mon Terrain de Jeu
-Je transforme chaque pixel en une expérience ultra-fluide en utilisant des technologies modernes pour créer des interfaces captivantes.
-
-### 💻 Passionné, Curieux et Toujours Prêt à Apprendre
-J'explore constamment de nouvelles technologies pour repousser mes limites et offrir des solutions innovantes et efficaces.
-
-### 🌍 Du Bénin au Monde Entier
-Je rêve de connecter le monde avec **du code propre**, de l'**innovation** et une touche de créativité africaine.
-
-### 👾 À Fond sur la Collaboration
-Si tu cherches un partenaire pour ton projet tech, je suis prêt à collaborer pour créer des solutions fun et originales ! ✨
-
 
 ## 💫 À propos de moi :
-- 🔭 Je travaille actuellement sur **LinkVibe**, une application SaaS pour les artistes et créateurs.  
+- 🔭 J'ai travaillé récemment sur **LinkVibe**, une application SaaS pour les artistes et créateurs.  
 - 🌱 J'approfondis mes compétences en **Next.js** et **API RESTful**.  
 - 👯 Je suis ouvert à des collaborations pour développer des outils open source et des solutions éducatives.  
-- 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse/).  
-- 📫 Contactez-moi à : prince.dev41@gmail.com  
+- 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).  
+- 📫 Contactez-moi à : princeekpinse97@gmail.com @gmail.com  
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
 
-## 🌐 Réseaux sociaux :
+## 🌐 Suivez moi :
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.linkedin.com/in/prince-ekpinse/" target="_blank">
+  <a href="https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/prince-dev41" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/ton-compte" target="_blank">
+  <a href="https://x.com/EkpinsePrince" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://tonportfolio.com" target="_blank">
