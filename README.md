@@ -50,9 +50,6 @@
 </div>
 
 
----
-
-
 ## 📊 Streak de contributions :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-dev41&theme=radical)
 
@@ -73,7 +70,10 @@
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.me/princeekpinse)
 
 ---
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+## 💰 On Spotify:
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qrstikxab6rlywen3bwldmqvim?si=f58ff6b48a1040ad)
+
 
 ## 🚀 Contribution et feedback :
 Tous les retours sont les bienvenus ! N'hésitez pas à ouvrir une issue ou à me contacter directement.
