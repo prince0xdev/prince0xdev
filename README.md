@@ -7,7 +7,7 @@ Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **
 - 🌱 J'approfondis mes compétences en **Next.js** et **API RESTful**.  
 - 👯 Je suis ouvert à des collaborations pour développer des outils open source et des solutions éducatives.  
 - 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).  
-- 📫 Contactez-moi à : princeekpinse97@gmail.com @gmail.com  
+- 📫 Contactez-moi à : princeekpinse97@gmail.com
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
