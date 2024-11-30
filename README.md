@@ -9,6 +9,8 @@
 - 📫 Contactez-moi à : prince.dev41@gmail.com  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?prince-dev41&color=yellow)
+
 
 ## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-ekpinse/) 
