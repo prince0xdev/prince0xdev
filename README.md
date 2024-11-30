@@ -9,7 +9,7 @@
 - 📫 Contactez-moi à : prince.dev41@gmail.com  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?prince-dev41&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
 
 
 ## 🌐 Réseaux sociaux :
