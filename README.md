@@ -37,7 +37,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-dev41&layout=compact&theme=radical)  
 
 ---
+
 <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=juicyfresh&no-bg=true" />
+
 ## ✍️ Citation aléatoire :
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
