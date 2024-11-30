@@ -44,8 +44,11 @@
 ---
 
 ## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince-dev41&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-dev41&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-dev41&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-dev41&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 
 ---
 
@@ -56,7 +59,7 @@
 ---
 
 ## 🏆 Mes trophées GitHub :
- <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=github&no-bg=true" alt="Trophées GitHub" />
+ <img src="https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=scolarizes&no-bg=true" alt="Trophées GitHub" />
 
 
 
