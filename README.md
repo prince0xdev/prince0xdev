@@ -1,6 +1,5 @@
-# Bonjour 👋, je suis Prince Ekpinse  ## 🚀 Prince EKPINSE – Le Code dans la Peau, Le Web dans les Veines 🌍
-
-Je suis Prince, un **développeur front-end** de 18 ans, originaire du **Bénin**. Passionné par **React.js**, **Next.js** et **TailwindCSS**, j'adore créer des sites web fluides et mémorables. 💻
+# Bonjour 👋
+Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **Bénin**. Passionné par **React.js**, **Next.js** et **TailwindCSS**, je crée des expériences web fluides et mémorables. Curieux et toujours prêt à apprendre, je m'efforce d'explorer les nouvelles technologies et de repousser mes limites pour offrir des interfaces captivantes. Mon objectif est de connecter le monde avec du **code propre**, de l'**innovation** et une touche de **créativité africaine**. Si tu cherches un partenaire pour tes projets tech, je suis toujours partant pour une collaboration fun et originale !
 
 ### 🎨 Le Développement, C’est Mon Terrain de Jeu
 Je transforme chaque pixel en une expérience ultra-fluide en utilisant des technologies modernes pour créer des interfaces captivantes.
