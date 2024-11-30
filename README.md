@@ -55,7 +55,7 @@
 ---
 
 ## 🎧 Musique en cours (Spotify) :
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ton-compte)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/prince.ekpinse)
 
 ---
 
@@ -90,6 +90,3 @@ Tous les retours sont les bienvenus ! N'hésitez pas à ouvrir une issue ou à
 ![GitHub Contributions](https://github-readme-contrib.vercel.app/api?username=prince-dev41&repo=linkvibe&theme=radical)
 
 ---
-
-## 👀 Visiteurs du profil :
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prince-dev41.prince-dev41)
