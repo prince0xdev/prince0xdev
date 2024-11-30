@@ -1,5 +1,19 @@
-# Bonjour 👋, je suis Prince Ekpinse  
-**Développeur front-end passionné et créateur de solutions SaaS innovantes**
+# Bonjour 👋, je suis Prince Ekpinse  ## 🚀 Prince EKPINSE – Le Code dans la Peau, Le Web dans les Veines 🌍
+
+Je suis Prince, un **développeur front-end** de 18 ans, originaire du **Bénin**. Passionné par **React.js**, **Next.js** et **TailwindCSS**, j'adore créer des sites web fluides et mémorables. 💻
+
+### 🎨 Le Développement, C’est Mon Terrain de Jeu
+Je transforme chaque pixel en une expérience ultra-fluide en utilisant des technologies modernes pour créer des interfaces captivantes.
+
+### 💻 Passionné, Curieux et Toujours Prêt à Apprendre
+J'explore constamment de nouvelles technologies pour repousser mes limites et offrir des solutions innovantes et efficaces.
+
+### 🌍 Du Bénin au Monde Entier
+Je rêve de connecter le monde avec **du code propre**, de l'**innovation** et une touche de créativité africaine.
+
+### 👾 À Fond sur la Collaboration
+Si tu cherches un partenaire pour ton projet tech, je suis prêt à collaborer pour créer des solutions fun et originales ! ✨
+
 
 ## 💫 À propos de moi :
 - 🔭 Je travaille actuellement sur **LinkVibe**, une application SaaS pour les artistes et créateurs.  
@@ -65,9 +79,6 @@
 - [**Gestion de factures SaaS**](https://github.com/prince-dev41/invoice-manager) : Solution pratique pour freelances et TPE.  
 
 ---
-
-## 💰 Lisez moi sur X :
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/EkpinsePrince)
 
 ---
 ## 💰 On Spotify:
