@@ -3,7 +3,7 @@ Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **
 
 
 ## 💫 À propos de moi :
-- 🔭 J'ai travaillé récemment sur **LinkVibe**, une application SaaS pour les artistes et créateurs.  
+- 🔭 J'ai travaillé récemment sur **H-Calendar**, une application qui permettra d gérer efficacementla gestion de leur emplois de temps.  
 - 🌱 J'approfondis mes compétences en **Next.js** et **API RESTful**.  
 - 👯 Je suis ouvert à des collaborations pour développer des outils open source et des solutions éducatives.  
 - 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).  
@@ -22,9 +22,6 @@ Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **
   </a>
   <a href="https://x.com/EkpinsePrince" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://tonportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
@@ -62,9 +59,7 @@ Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **
 
 ## 🔥 Mes projets en vedette :
 - [**LinkVibe**](https://github.com/prince-dev41/linkvibe) : Une application pour centraliser vos liens et analyser vos performances.  
-- [**Dashboard éducatif**](https://github.com/prince-dev41/educ-dashboard) : Un tableau de bord pour les élèves et les enseignants.  
-- [**Gestion de factures SaaS**](https://github.com/prince-dev41/invoice-manager) : Solution pratique pour freelances et TPE.  
-
+- [**Dashboard éducatif**](https://github.com/prince-dev41/h-calendar) : Une app pour la gestion des emplois du temps. 
 ---
 
 ---
