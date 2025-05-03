@@ -6,7 +6,8 @@ Je suis Prince Ekpinse, un **développeur front-end** de 18 ans originaire du **
 - 🔭 J'ai travaillé récemment sur **H-Calendar**, une application qui permettra d gérer efficacementla gestion de leur emplois de temps.  
 - 🌱 J'approfondis mes compétences en **Next.js** et **API RESTful**.  
 - 👯 Je suis ouvert à des collaborations pour développer des outils open source et des solutions éducatives.  
-- 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).  
+- 📝 J'aime partager mes expériences et découvertes sur [mon LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).
+- 📫 Mon portfolio : https://ekpinse-prince.vercel.app/
 - 📫 Contactez-moi à : princeekpinse97@gmail.com
 
 ---
