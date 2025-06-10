@@ -7,8 +7,8 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 ## 💡 About Me:
 - 🔭 Currently working on **H-Calendar**, a tool to simplify timetable management for schools.  
 - 🌱 Learning more about **Next.js** and building **RESTful APIs**.  
-- 🤝 Open to collaborating on open-source tools and educational solutions.  
-- 📢 I actively share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/).  
+- 🤝 Open to collaborating on open-source tools and usefull solutions.
+- 📢 I actively share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/).  
 - 🌐 Portfolio: https://ekpinse-prince.vercel.app/  
 - 📩 Reach me: princeekpinse97@gmail.com  
 
