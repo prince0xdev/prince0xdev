@@ -62,8 +62,9 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 ---
 
 ## 🚀 Featured Projects:
+- [**Countrie Selector js library**](https://www.npmjs.com/package/country-selector-lite) — The easy way to create a advanced country dropdown. 
 - [**LinkVibe**](https://github.com/prince-dev41/linkvibe) — Centralize your links & track your link performance.  
-- [**H-Calendar**](https://github.com/prince-dev41/h-calendar) — A dashboard for managing class timetables.  
+- [**H-Calendar**](https://github.com/prince-dev41/h-calendar) — A dashboard for managing class timetables.
 
 ---
 
