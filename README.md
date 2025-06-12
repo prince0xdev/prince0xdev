@@ -14,6 +14,12 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 
 ---
 
+## 🚀 Featured Projects:
+- [**Countrie Selector js library**](https://www.npmjs.com/package/country-selector-lite) — The easy way to create a advanced country dropdown. 
+- [**LinkVibe**](https://github.com/prince-dev41/linkvibe) — Centralize your links & track your link performance.  
+- [**H-Calendar**](https://github.com/prince-dev41/h-calendar) — A dashboard for managing class timetables.
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
 
 ## 🌐 Connect with me:
@@ -58,13 +64,6 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 
 ## 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=darkhub&no-bg=true)
-
----
-
-## 🚀 Featured Projects:
-- [**Countrie Selector js library**](https://www.npmjs.com/package/country-selector-lite) — The easy way to create a advanced country dropdown. 
-- [**LinkVibe**](https://github.com/prince-dev41/linkvibe) — Centralize your links & track your link performance.  
-- [**H-Calendar**](https://github.com/prince-dev41/h-calendar) — A dashboard for managing class timetables.
 
 ---
 
