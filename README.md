@@ -17,21 +17,21 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 
 ## 🚀 Featured Projects:
 - [**Countrie Selector js library**](https://www.npmjs.com/package/country-selector-lite) — The easy way to create a advanced country dropdown. 
-- [**LinkVibe**](https://github.com/prince-dev41/linkvibe) — Centralize your links & track your link performance.  
-- [**H-Calendar**](https://github.com/prince-dev41/h-calendar) — A dashboard for managing class timetables.
+- [**LinkVibe**](https://github.com/prince0xdev/linkvibe) — Centralize your links & track your link performance.  
+- [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — A dashboard for managing class timetables.
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
 
 ## 🌐 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/prince-ekpinse-developpement-front-end/" target="_blank">
+  <a href="https://www.linkedin.com/in/prince-ekpinse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/prince-dev41" target="_blank">
+  <a href="https://github.com/prince0xdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/EkpinsePrince" target="_blank">
+  <a href="https://x.com/prince0xdev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -59,12 +59,12 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 </p>
 
 ## 🔥 Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-dev41&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince0xdev&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=prince-dev41&theme=darkhub&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prince0xdev&theme=darkhub&no-bg=true)
 
 ---
 
