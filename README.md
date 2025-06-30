@@ -7,8 +7,6 @@ My mission: connect the world through **clean code**, **innovation**, and a spar
 
 Always open to exciting collaborations and tech challenges 🚀
 
----
-
 ## 💡 About Me
 - 💻 Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
 - 🔭 Currently building [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — a smart timetable management tool for schools  
