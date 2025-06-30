@@ -1,29 +1,35 @@
 # Hey there 👋
 
-I'm **Prince Ekpinse**, an 19-year-old **front-end developer** from **Benin**, passionate about building clean, fast, and creative web experiences using **React.js**, **Next.js**, and **TailwindCSS**.
+I'm **Prince Ekpinse** — a 19-year-old **front-end developer** from **Benin**, passionate about building fast, clean, and creative web experiences using **React.js**, **Next.js**, and **Tailwind CSS**.
 
-I'm a curious and proactive learner, always exploring new technologies and pushing my boundaries. I aim to connect the world through **clean code**, **innovation**, and a touch of **African creativity**. I’m always open to cool collaborations and tech challenges!
+I'm a curious and proactive learner, always exploring new technologies and pushing my limits.  
+My mission: connect the world through **clean code**, **innovation**, and a spark of **African creativity**.
 
-## 💡 About Me:
-- 💻 Currently Junior Front-end Developer Intern at [FeexPay](https://feexpay.me/)
-- 🔭 Currently working on **H-Calendar**, a tool to simplify timetable management for schools.  
-- 🌱 Learning more about **Next.js** and building **RESTful APIs**.  
-- 🤝 Open to collaborating on open-source tools and usefull solutions.
-- 📢 I actively share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/).  
-- 🌐 Portfolio: https://ekpinse-prince.vercel.app/  
-- 📩 Reach me: princeekpinse97@gmail.com  
+Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 🚀 Featured Projects:
-- [**Countrie Selector js library**](https://www.npmjs.com/package/country-selector-lite) — The easy way to create a advanced country dropdown. 
-- [**LinkVibe**](https://github.com/prince0xdev/LinkVibes) — Centralize your links & track your link performance.  
-- [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — A dashboard for managing class timetables.
+## 💡 About Me
+- 💻 Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
+- 🔭 Currently building [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — a smart timetable management tool for schools  
+- 🌱 Learning more about **Next.js** and building **RESTful APIs**  
+- 🤝 Open to contributing to open-source projects and practical solutions  
+- 📝 I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
+- 🌐 Portfolio: [ekpinse-prince.vercel.app](https://ekpinse-prince.vercel.app)  
+- 📩 Contact me: `princeekpinse97@gmail.com`
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=prince-dev41&color=blue)
 
-## 🌐 Connect with me:
+## 🚀 Featured Projects
+- [**Country Selector (JS Library)**](https://www.npmjs.com/package/country-selector-lite) — A simple and customizable country dropdown  
+- [**LinkVibe**](https://github.com/prince0xdev/LinkVibes) — Centralize and track all your links in one place  
+- [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — Dashboard for managing school class timetables
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=prince0xdev&color=blue)
+
+## 🌐 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/prince-ekpinse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,7 +44,7 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 
 ---
 
-## 🧰 Tech Stack:
+## 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -52,33 +58,35 @@ I'm a curious and proactive learner, always exploring new technologies and pushi
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-dev41&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-dev41&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince0xdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince0xdev&layout=compact&theme=radical" />
 </p>
 
-## 🔥 Streaks:
+---
+
+## 🔥 GitHub Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince0xdev&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=prince0xdev&theme=darkhub&no-bg=true)
 
 ---
 
-## 🎧 Now Playing on Spotify:
+## 🎧 Spotify Now Playing
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qrstikxab6rlywen3bwldmqvim?si=f58ff6b48a1040ad)
 
 ---
 
-## 💬 Feedback is Welcome:
-Feel free to open an issue or contact me directly if you'd like to collaborate or just say hi.
+## 💬 Feedback is Welcome
+Open an issue or contact me directly — I’m always up for feedback and collaboration!
 
-## ✍️ Random Dev Quote:
+## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
-**Thanks for stopping by! 🚀**
+**Thanks for stopping by! Let’s build something great together 🚀**
