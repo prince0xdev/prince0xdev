@@ -5,7 +5,7 @@ I'm **Prince Ekpinse**, an 19-year-old **front-end developer** from **Benin**, p
 I'm a curious and proactive learner, always exploring new technologies and pushing my boundaries. I aim to connect the world through **clean code**, **innovation**, and a touch of **African creativity**. I’m always open to cool collaborations and tech challenges!
 
 ## 💡 About Me:
-- Currently Junior Front-end Developer Intern at [FeexPay](https://feexpay.me/)
+- 💻 Currently Junior Front-end Developer Intern at [FeexPay](https://feexpay.me/)
 - 🔭 Currently working on **H-Calendar**, a tool to simplify timetable management for schools.  
 - 🌱 Learning more about **Next.js** and building **RESTful APIs**.  
 - 🤝 Open to collaborating on open-source tools and usefull solutions.
