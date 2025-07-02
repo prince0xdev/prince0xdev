@@ -7,11 +7,6 @@ My mission: connect the world through **clean code**, **innovation**, and a spar
 
 Always open to exciting collaborations and tech challenges 🚀
 
----
-
-<a href="https://app.daily.dev/prince0xdev"><img src="https://api.daily.dev/devcards/v2/pt7h4KbgiwGNyhqiinaAr.png?r=z6c" width="356" alt="Ekpinse Prince's Dev Card"/></a>
-
----
 ## 💡 About Me
 - 💻 Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
 - 🔭 Currently building [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — a smart timetable management tool for schools  
