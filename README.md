@@ -18,8 +18,9 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 🚀 Featured Projects
-- [**Country Selector (JS Library)**](https://www.npmjs.com/package/country-selector-lite) — A simple and customizable country dropdown  
+## 🚀 Featured Projects  
+- [**Code Sweep**](https://github.com/prince0xdev/h-calendar) — 
+- [**Country Selector (JS Library)**](https://www.npmjs.com/package/country-selector-lite) — A vscode extension to remove and uncomment your code in one click. Supports multiple languages including HTML
 - [**LinkVibe**](https://github.com/prince0xdev/LinkVibes) — Centralize and track all your links in one place  
 - [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — Dashboard for managing school class timetables
 
