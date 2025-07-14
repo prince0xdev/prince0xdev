@@ -9,7 +9,7 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ## 💡 About Me
 - 💻 Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
-- 🔭 Currently building [**H-Calendar**](https://github.com/prince0xdev/h-calendar) — a smart timetable management tool for schools  
+- 🔭 Currently building [**Code Sweep**]([https://github.com/prince0xdev/h-calendar](https://github.com/prince0xdev/code-sweap)) — a vscode extension to clean your code in one click.
 - 🌱 Learning more about **Next.js** and building **RESTful APIs**  
 - 🤝 Open to contributing to open-source projects and practical solutions  
 - 📝 I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
