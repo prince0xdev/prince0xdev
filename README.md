@@ -8,12 +8,12 @@ My mission: connect the world through **clean code**, **innovation**, and a spar
 Always open to exciting collaborations and tech challenges 🚀
 
 ## 💡 About Me
-- 💻 Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
+- 💻 [Ex] Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
 - 🔭 Currently building [**Code Sweep**](https://github.com/prince0xdev/code-sweap) — a vscode extension to clean your code in one click.
 - 🌱 Learning more about **Next.js** and building **RESTful APIs**  
 - 🤝 Open to contributing to open-source projects and practical solutions  
 - 📝 I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
-- 🌐 Portfolio: [ekpinse-prince.vercel.app](https://ekpinse-prince.vercel.app)  
+- 🌐 Portfolio: [prince0xdev.vercel.app](https://prince0xdev.vercel.app)  
 - 📩 Contact me: `princeekpinse97@gmail.com`
 
 ---
