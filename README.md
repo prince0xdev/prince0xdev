@@ -75,16 +75,8 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 🎧 Spotify Now Playing
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qrstikxab6rlywen3bwldmqvim?si=f58ff6b48a1040ad)
-
----
-
 ## 💬 Feedback is Welcome
 Open an issue or contact me directly — I’m always up for feedback and collaboration!
-
-## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
