@@ -9,8 +9,8 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ## 💡 About Me
 - 💻 [Ex] Junior Front-End Developer Intern at [FeexPay](https://feexpay.me/)
-- 🔭 Currently building [**Code Sweep**](https://github.com/prince0xdev/code-sweap) — a vscode extension to clean your code in one click.
-- 🌱 Learning more about **Next.js** and building **RESTful APIs**  
+- 🔭 Currently building [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
+- 🌱 Learning more about **Fast API** to build **RESTful APIs**  
 - 🤝 Open to contributing to open-source projects and practical solutions  
 - 📝 I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
 - 🌐 Portfolio: [prince0xdev.vercel.app](https://prince0xdev.vercel.app)  
