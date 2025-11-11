@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Prince Ekpinse** — a 19-year-old **front-end developer** from **Benin**, passionate about building fast, clean, and creative web experiences using **React.js**, **Next.js**, and **Tailwind CSS**.
+I'm **Prince Ekpinse** — a 19-year-old **front-end developer** from **Benin**, an Open-Source Lover, passionate about building fast, clean, and creative web experiences using **React.js**, **Next.js**, and **Tailwind CSS**.
 
 I'm a curious and proactive learner, always exploring new technologies and pushing my limits.  
 My mission: connect the world through **clean code**, **innovation**, and a spark of **African creativity**.
