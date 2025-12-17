@@ -19,7 +19,7 @@ Always open to exciting collaborations and tech challenges 🚀
 ---
 
 ## 🚀 Featured Projects  
-- [**Code Sweep**](https://github.com/prince0xdev/h-calendar) — Remove and uncomment your code in one click. Supports multiple languages including more 30 most used languages.
+- [**Code Sweep**](https://github.com/prince0xdev/code-sweep) — Remove and uncomment your code in one click. Supports multiple languages including more 30 most used languages.
 - [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
 - [**LinkVibe**](https://github.com/prince0xdev/LinkVibes) — Centralize and track all your links in one place.
 - [**H-Calendar**](https://github.com/prince0xdev/hecm-calendar) — Dashboard for managing school class timetables.
