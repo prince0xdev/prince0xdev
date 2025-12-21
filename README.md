@@ -26,7 +26,19 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=prince0xdev&color=blue)
+<p align="start">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=prince0xdev&label=Profile%20Views&color=blue&style=flat&logo=github&logoColor=white" height="50"/>
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/prince0xdev?label=Followers&color=green&style=flat&logo=github&logoColor=white" height="50"/>
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/prince0xdev?label=Stars&color=yellow&style=flat&logo=github&logoColor=black" height="50"/>
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/prince0xdev&query=$.public_repos&label=Public%20Repos&color=purple&style=flat&logo=github&logoColor=white" height="50"/>
+</p>
 
 ## 🌐 Connect with Me
 <p>
