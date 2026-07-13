@@ -8,7 +8,7 @@ My mission: connect the world through **clean code**, **innovation**, and a spar
 Always open to exciting collaborations and tech challenges 🚀
 
 ## About Me
-- 🔭 Currently building [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
+- Currently building [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
 - Learning more about **Fast API** to build **RESTful APIs**  
 - Open to contributing to open-source projects and practical solutions  
 - I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
