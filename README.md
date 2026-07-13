@@ -7,17 +7,17 @@ My mission: connect the world through **clean code**, **innovation**, and a spar
 
 Always open to exciting collaborations and tech challenges 🚀
 
-## 💡 About Me
+## About Me
 - 🔭 Currently building [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
-- 🌱 Learning more about **Fast API** to build **RESTful APIs**  
-- 🤝 Open to contributing to open-source projects and practical solutions  
-- 📝 I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
-- 🌐 Portfolio: [prince0xdev.vercel.app](https://prince0xdev.vercel.app)  
-- 📩 Contact me: `princeekpinse97@gmail.com`
+- Learning more about **Fast API** to build **RESTful APIs**  
+- Open to contributing to open-source projects and practical solutions  
+- I share my journey on [LinkedIn](https://www.linkedin.com/in/prince-ekpinse/)  
+- Portfolio: [prince0xdev.vercel.app](https://prince0xdev.vercel.app)  
+- Contact me: `princeekpinse97@gmail.com`
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 - [**Code Sweep**](https://github.com/prince0xdev/code-sweep) — Remove and uncomment your code in one click. Supports multiple languages including more 30 most used languages.
 - [**YT Downloader GUI**](https://github.com/prince0xdev/yt-downloader-gui) — A modern graphical app to easily download YouTube videos and music, built with Python, yt-dlp, and CustomTkinter.
 - [**LinkVibe**](https://github.com/prince0xdev/LinkVibes) — Centralize and track all your links in one place.
@@ -39,7 +39,7 @@ Always open to exciting collaborations and tech challenges 🚀
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/prince0xdev&query=$.public_repos&label=Public%20Repos&color=purple&style=flat&logo=github&logoColor=white" height="50"/>
 </p>
 
-## 🌐 Connect with Me
+## Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/prince-ekpinse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,7 +54,7 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -68,7 +68,7 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=prince0xdev&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince0xdev&layout=compact&theme=radical" />
@@ -76,12 +76,12 @@ Always open to exciting collaborations and tech challenges 🚀
 
 ---
 
-## 🔥 GitHub Streaks
+## GitHub Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince0xdev&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=prince0xdev&theme=darkhub&no-bg=true)
 
 ---
