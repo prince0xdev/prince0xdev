@@ -9,26 +9,20 @@ I'm also exploring **mobile development with React Native** and continuously imp
 I'm a curious and proactive builder.  
 I learn by building, experimenting, breaking things, fixing them, and shipping.
 
-My goal is simple:
-
-> **Build useful things, write better code, and keep getting better at engineering.**
-
-🌍 Building from **Africa**, thinking globally.
-
 ---
 
 ## About Me
 
-- 🚀 Full-Stack Developer with a strong frontend focus
-- ⚛️ Building web applications with **React, Next.js & TypeScript**
-- 🐍 Building REST APIs with **Python & FastAPI**
-- 🟢 Working with **Node.js & Express**
-- 📱 Exploring **React Native** for mobile development
-- 🗄️ Working with **MySQL & PostgreSQL**
-- 🔌 Integrating and building **REST APIs**
-- 🧱 Learning through real projects rather than tutorials alone
-- 🌍 Interested in African tech, startups and building products that solve real problems
-- 🤝 Open to practical projects, collaborations, internships and open-source contributions
+- Full-Stack Developer with a strong frontend focus
+- Building web applications with **React, Next.js & TypeScript**
+- Building REST APIs with **Python & FastAPI**
+- Working with **Node.js & Express**
+- Exploring **React Native** for mobile development
+- Working with **MySQL & PostgreSQL**
+- Integrating and building **REST APIs**
+- Learning through real projects rather than tutorials alone
+- Interested in African tech, startups and building products that solve real problems
+- Open to practical projects, collaborations, internships and open-source contributions
 
 ---
 
@@ -66,7 +60,7 @@ Supports more than **30 programming languages**.
 
 ---
 
-### 📥 [YT Downloader GUI](https://github.com/prince0xdev/yt-downloader-gui)
+### [YT Downloader GUI](https://github.com/prince0xdev/yt-downloader-gui)
 
 A modern graphical application for downloading online media.
 
@@ -84,7 +78,7 @@ A platform for centralizing and tracking links in one place.
 
 ---
 
-### 📅 [H-Calendar](https://github.com/prince0xdev/hecm-calendar)
+### [H-Calendar](https://github.com/prince0xdev/hecm-calendar)
 
 A dashboard for managing school class timetables.
 
@@ -176,7 +170,7 @@ A dashboard for managing school class timetables.
 
 ---
 
-## 💬 Feedback & Collaboration
+## Feedback & Collaboration
 
 I'm always open to feedback, interesting projects, open-source contributions and opportunities to build with other developers.
 
@@ -186,4 +180,4 @@ Feel free to open an issue, start a discussion or reach out directly.
 
 **Thanks for stopping by!**
 
-**Let's build something useful together. 🚀**
+**Let's build something useful together. **
